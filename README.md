@@ -1,4 +1,4 @@
-# F1 Lights Out
+# F1 Pit Lane Engineer Agent with ML and LangGraph
 
 An F1 strategy demo that predicts whether a driver should pit based on race telemetry, then wraps that prediction in an agent-style pit wall experience.
 
